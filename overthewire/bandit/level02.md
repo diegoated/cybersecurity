@@ -1,4 +1,4 @@
-# Level 2
+# Level 1 -> Level 2
 
 The goal is to find the password for the next level in a file named `-`.
 

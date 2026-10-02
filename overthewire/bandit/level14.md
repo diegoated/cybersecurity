@@ -1,4 +1,4 @@
-# Level 14
+# Level 13 -> Level 14
 
 The goal of this level is to find the password stored in `/etc/bandit_pass/bandit14`, which can only be read by the user `bandit14`. Rather than the usual scrambled password, we will get a private SSH key that can be used to log into the next level.
 

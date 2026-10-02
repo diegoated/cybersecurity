@@ -1,4 +1,4 @@
-# Level 6 
+# Level 5 -> Level 6 
 
 The goal is to find the password stored in a file under the `inhere` directory which has the properties:
 - human-readable

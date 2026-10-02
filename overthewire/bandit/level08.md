@@ -1,4 +1,4 @@
-# Level 8
+# Level 7 -> Level 8
 
 The goal of this level is to find the password stored in the file `data.txt` next to the word millionth.
 

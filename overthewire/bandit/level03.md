@@ -1,4 +1,4 @@
-# Level 3
+# Level 2 -> Level 3
 
 The goal is to find the password in the file `--spaces in this filename--`.
 

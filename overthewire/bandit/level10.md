@@ -1,4 +1,4 @@
-# Level 10
+# Level 9 -> Level 10
 
 The goal of this level is to find the password stored in the `data.txt`, being one of the few human-readable strings, preceded by several ‘=’ characters.
 

@@ -1,4 +1,4 @@
-# Level 9
+# Level 8 -> Level 9
 
 The goal is to find the password is stored in the file `data.txt`, being the only line of text that occurs only once.
 

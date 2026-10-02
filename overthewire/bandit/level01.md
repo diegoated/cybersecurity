@@ -1,4 +1,4 @@
-# Level 1
+# Level 0 -> Level 1
 
 The goal is to find a file called `readme` in the home directory to get the password for Level 2.
 

@@ -1,4 +1,4 @@
-# Level 7 
+# Level 6 -> Level 7 
 
 The goal of this level is to find the password stored somewhere on the server which has the following properties:
 

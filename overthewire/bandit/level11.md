@@ -1,4 +1,4 @@
-# Level 11
+# Level 10 -> Level 11
 
 The goal of this level is to find the password stored in the `data.txt` file filled with text encoded with base64.
 

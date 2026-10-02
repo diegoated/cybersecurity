@@ -1,4 +1,4 @@
-# Level 13
+# Level 12 -> Level 13
 The goal of this level is to find the password stored in the `data.txt` file, which is a hexdump of a file that has been repeatedly compressed.
 
 To begin decompressing the file, we first must revert the hexdump that it was made into. We will do this by using the command:

@@ -1,4 +1,4 @@
-# Level 5
+# Level 4 -> Level 5
 
 The goal is to find the password stored in the only human-readable file in the `inhere` directory.
 
