@@ -41,4 +41,4 @@ Key Words:
 
 ## 5. Setting up Kali Linux
 To set up Kali Linux on virt-manager:
-- Download the pre-built QEMU Kali Linux image from [kali.org](kali.org)
+- Download the pre-built QEMU Kali Linux image from [kali.org](https://kali.org)
