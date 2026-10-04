@@ -11,6 +11,3 @@ Finally, the command to view the contents of the `readme` file would be:
 `cat readme`
 
 Logged in as bandit1, found the `readme` file and got the password. Moving on to Level 2.
-Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-
-
