@@ -11,7 +11,7 @@ WIP
 | Machine | Specs | Role |
 |---|---|---|
 | ThinkPad T14 | i7, 32 GB RAM, 1 TB SSD | Host |
-| Dell Precision T5500 | 4 GB RAM, 250 GB SSD | Ubuntu Server |
+| Dell Precision T5500 || Ubuntu Server |
 
 ## Software
 
