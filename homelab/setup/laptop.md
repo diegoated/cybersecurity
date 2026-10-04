@@ -41,4 +41,12 @@ Key Words:
 
 ## 5. Setting up Kali Linux
 To set up Kali Linux on virt-manager:
-- Download the pre-built QEMU Kali Linux image from [kali.org](https://kali.org)
+1. Download the pre-built QEMU Kali Linux image from [kali.org](https://kali.org)
+2. Extract the image from the archive.
+3. Move the file into `/var/lib/libvirt/images/` OR simply browse for the file on your machine.
+4. In virt-manager: File > New Virtual Machine > Import existing disk image: Pick the qcow2 file and choose the OS "Debian", your dedicated RAM, and CPU.
+5. Check **Customize configuration before install** to add a second NIC. One will be on `default` for updates and TryHackMeVPN while the other is on `lab`.
+
+## 6. Setup the target
+
+
