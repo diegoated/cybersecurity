@@ -7,6 +7,3 @@ Since doing `cat -` will result in the terminal thinking `-` is a command, inste
 `cat ./-`
 
 Logged in as bandit2, found the `-` file and got the password. Moving on to Level 3. 
-Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-
-

@@ -8,8 +8,4 @@ To begin deciphering, we must use the `tr` command and give it the sets it needs
 
 `tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt` 
 
-The output will be:
-
-`The password is GROozWPO8QyN0mGrjUkID0WCYkZiQxrN`
-
-Granting us access to level 13.
+Granting us access to level 13 with our password.

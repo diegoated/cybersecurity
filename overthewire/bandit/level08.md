@@ -16,4 +16,3 @@ Provides me with:
 Providing us our password.
 
 Logged in as bandit8, the password was in file `data.txt`. Moving to level 9.
-Password: VR1ljMayciFxbnUokuQmJFw6QC9VKtub

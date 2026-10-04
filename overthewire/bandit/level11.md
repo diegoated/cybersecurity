@@ -9,4 +9,3 @@ The command I ran was:
 `base64 -d data.txt`
 
 Logged in as bandit11, found the password in the `data.txt` file. Moving to level 12.
-Password: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro

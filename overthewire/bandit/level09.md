@@ -9,4 +9,3 @@ Knowing that the line occurs only once, we would refer to the `uniq` command whi
 It sorts the data based on similar text and then provides us with only the `uniq` chracter due to the arg `-u`.
 
 Logged in as bandit 9, found the password in `data.txt`. Moving on to level 10.
-Password: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl

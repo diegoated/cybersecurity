@@ -61,6 +61,4 @@ Resulting in `data8` which is a `gzip compressed data` needing the command:
 
 `gzip -d -S .bin data8.bin`
 
-Finally, we can `cat` the `data8` file, resulting in the output:
-
-`The password is qQYQiHOBPR8zR61qxYqX45quvihF2uzk`
+Finally, we can `cat` the `data8` file, resulting in the output of our password.

@@ -7,4 +7,3 @@ Using cat won't work anymore due to the varying data types. For this reason, we 
 `strings data.txt | grep ===`
 
 Logged in as bandit10, found the password in `data.txt`. Moving on to level 11.
-Password: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG

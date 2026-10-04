@@ -17,6 +17,3 @@ The only issue was that a lot of other directories and files fell under those ci
 I then used cat to recieve the password.
 
 Logged in as `bandit7`, found the password in the file `/var/lib/dpkg/info/bandit7.password`. Moving on to level 8.
-Password: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
-
-
