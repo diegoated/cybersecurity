@@ -7,8 +7,9 @@
 - Verified with `lscpu | grep Virtualization`: shows VT-x.
 
 ## 2. Install virtualization stack
-- Ran the command:
+Ran the command:
 - `sudo pacman -S qemu-full libvirt virt-manager dnsmasq edk2-ovmf swtpm 7zip`
+
 Below is a list of what each tool does:
 - qemu-full: QEMU with all device types, plus qemu-img for converting disks.
 - libvirt: the VM manager service.
