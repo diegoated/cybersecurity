@@ -14,8 +14,6 @@ notes, writeups, and lab work.
 
 ## How I use this repo
 
-- Everything is written in my own words while I work, including the
-  mistakes and what fixed them.
 - Writeups follow the same pattern: the goal, the commands I ran, what
   happened, and what I learned.
 - Notes are in Markdown and written in Vim.
