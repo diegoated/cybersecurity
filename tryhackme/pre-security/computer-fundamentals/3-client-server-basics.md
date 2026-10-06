@@ -38,4 +38,11 @@ The 9 core commands (or methods) are:
 - CONNECT
 - TRACE
 
-**GET:**  Used to retrieve resources from web servers. When you open a browser (client) and type "https://google.com", the browser constructs the message using information you provide and other fields defined in the HTTP specifications. When the server receives the request, it sends a respone including a status code (indicating response) and information requested. 
+**GET:**  Used to retrieve resources from web servers. When you open a browser (client) and type "https://google.com", the browser constructs the message using information you provide and other fields defined in the HTTP specifications. When the server receives the request, it sends a respone including a status code (indicating response) and information requested.
+
+Using a VM with a open browserm we can press F12 to inspect elements and navigate to the network tab to view these commands taking place. When we click on a GET request, we get various important fields:
+- Scheme: Tells us which protocol was used: HTTP or HTTPS.
+- Host: Tells us the name of the host we request resources from.
+- Filename: Indicates which file we requested from the host. In our request, this is "/", which actually translates to "index.html".
+- Address: Displays the IP address where the website is hosted. In our example, we are hosting the website on the same device. That's why the address 127.0.0.1 is shown.
+- Status: This field indicates whether the request was successful. In our example, we received a "200 OK" status, which means that the request was successful.
